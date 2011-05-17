@@ -29,7 +29,6 @@ public class MyActivityTest extends
 	public void testButtonClick() throws Exception {
 		solo.clickOnButton("Click me");
 		Assert.assertTrue(solo.searchText("I was clicked"));
-
 	}
 
 }

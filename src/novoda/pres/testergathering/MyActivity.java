@@ -1,7 +1,6 @@
 package novoda.pres.testergathering;
 
 import android.app.Activity;
-import android.content.DialogInterface.OnClickListener;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;

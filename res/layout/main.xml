@@ -9,6 +9,9 @@
 		android:layout_height="wrap_content" android:text="Click me"
 		android:onClick="onClick"></Button>
 
+	<CheckBox android:text="CheckableValue" android:id="@+id/checkBox1"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></CheckBox>
+
 
 </LinearLayout>
 
