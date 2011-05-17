@@ -1,4 +1,4 @@
 gen
 bin
 local.properties
-
+tests/local/tmp/cached-robolectric-classes.jar
